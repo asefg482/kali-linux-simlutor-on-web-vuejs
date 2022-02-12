@@ -2,7 +2,7 @@
 
 A website simulating Kali Linux GUI, base on Vue + TailCSS, keep adding new features~
 
-you can access https://asefg.ir/ to use it
+you can access http://beta.asefg.ir/ to use it
 ## Quick Start
 ```
 git clone https://github.com/asefg482/kali-linux-simlutor-on-web-vuejs.git
